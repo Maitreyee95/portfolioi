@@ -9,7 +9,7 @@ body{
 }
 
 .content-top{
-	background-image: url('images/top-background.jpg');
+	background-image: url('top-background.jpg');
 	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
